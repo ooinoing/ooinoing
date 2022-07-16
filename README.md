@@ -4,4 +4,5 @@
 [![instagram Badge](https://img.shields.io/badge/@jjiiiho-E4405F?style=flat-false&logo=Instagram&logoColor=white)](https://www.instagram.com/jjiiiho/)
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ooinoing)](https://solved.ac/ooinoing[https://github.com/mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ooinoing&theme=warm)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ooinoing)](https://solved.ac/ooinoing[https://github.com/mazassumnida/mazandi](https://github.com/mazassumnida/mazandi)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ooinoing&theme=warm)
