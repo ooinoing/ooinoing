@@ -4,4 +4,3 @@
 [![instagram Badge](https://img.shields.io/badge/@jjiiiho-E4405F?style=flat-false&logo=Instagram&logoColor=white)](https://www.instagram.com/jjiiiho/)
 
 ![ooinoing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooinoing&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooinoing)
