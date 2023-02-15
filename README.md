@@ -35,8 +35,8 @@
   <a href="">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a>
-	<img src="https://img.shields.io/badge/ooinoing@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
   <a href="https://www.instagram.com/jjiiiho/">
-	<img src="https://img.shields.io/badge/jjiiiho-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
