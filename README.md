@@ -9,14 +9,17 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
-
+<br>
+</br>
 
 <div align=center>
 	<p>🏆 Baekjoon solved rank 🏆</p>
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ooinoing)](https://solved.ac/ooinoing)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ooinoing)](https://solved.ac/ooinoing)
 </div>
 
+<br>
+</br>
 
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
