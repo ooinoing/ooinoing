@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!%20&animation=fadeIn&fontSize=45&fontAlign=70&desc=jeeho's%20Github&fontAlignY=45&descAlign=75&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!%20&animation=fadeIn&fontSize=45&fontAlign=70&desc=jiho's%20Github&fontAlignY=45&descAlign=75&descSize=25)
 
 <div align=center>
 	<p>📚 Tech Stack 📚</p>
